@@ -22,3 +22,4 @@ def map_to_double(source_array)
     x += 1
   end
   new_array
+end
